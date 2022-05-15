@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2a32fe6.css",
+    "main.js": "/static/js/main.2607c4c5.js",
+    "static/js/787.057c9a82.chunk.js": "/static/js/787.057c9a82.chunk.js",
+    "static/media/image64.png": "/static/media/image64.00029e773ea93bb1aefc.png",
+    "static/media/backgrounPhoto.png": "/static/media/backgrounPhoto.6dd5f5ab86c824477081.png",
+    "static/media/FrameImg.png": "/static/media/FrameImg.a82b920d04c8aa65b21d.png",
+    "static/media/Rectangle 1947.png": "/static/media/Rectangle 1947.1daea391e18ddf574411.png",
+    "static/media/Rectangle284.png": "/static/media/Rectangle284.33a3b84ba22beb1eeeb8.png",
+    "static/media/Rectangle1946.png": "/static/media/Rectangle1946.0b2072a330f30a9d2a2c.png",
+    "static/media/Rectangle 1948.png": "/static/media/Rectangle 1948.984e9b42dfebe1f47914.png",
+    "static/media/Rectangle 287.png": "/static/media/Rectangle 287.914ff252f11b759fc3ac.png",
+    "static/media/Rectangle 286.png": "/static/media/Rectangle 286.d848d23be32894d06e55.png",
+    "static/media/Rectangle 285.png": "/static/media/Rectangle 285.f7b29a256feafede3db8.png",
+    "static/media/Rectangle 309 (3).png": "/static/media/Rectangle 309 (3).8d123834e86e6bd32b78.png",
+    "static/media/Rectangle 308 (2).png": "/static/media/Rectangle 308 (2).9e858d81c715a55a2258.png",
+    "static/media/Rectangle 308 (3).png": "/static/media/Rectangle 308 (3).8f8bc605850f300cf4f3.png",
+    "static/media/Rectangle 308.png": "/static/media/Rectangle 308.c2264b7c68bfa3e35e0c.png",
+    "static/media/Rectangle 309.png": "/static/media/Rectangle 309.1fba00da1c9157746942.png",
+    "static/media/Rectangle 308 (1).png": "/static/media/Rectangle 308 (1).5ce15923c84ad9233611.png",
+    "static/media/Rectangle 309 (1).png": "/static/media/Rectangle 309 (1).4c0208c57a013179966a.png",
+    "static/media/Ellipse 55.png": "/static/media/Ellipse 55.ca7b542c57b5c478fcad.png",
+    "static/media/Ellipse 54.png": "/static/media/Ellipse 54.74e0a126df0c6b8f09cb.png",
+    "static/media/Ellipse 53.png": "/static/media/Ellipse 53.32ffdcbf76727736c197.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b2a32fe6.css.map": "/static/css/main.b2a32fe6.css.map",
+    "main.2607c4c5.js.map": "/static/js/main.2607c4c5.js.map",
+    "787.057c9a82.chunk.js.map": "/static/js/787.057c9a82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a32fe6.css",
+    "static/js/main.2607c4c5.js"
+  ]
+}
